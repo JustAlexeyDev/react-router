@@ -1,0 +1,14 @@
+* {
+  transition: all;
+  transition: 0.3s;
+}
+body {
+  background-color: #fff;
+  color: #111;
+}
+
+.nav-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
