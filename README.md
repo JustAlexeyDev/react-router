@@ -2,7 +2,7 @@
 Base navigation with React Router
 
 
-#Install
+# Install
 ```
-npm install or npm i
+npm install
 ```
